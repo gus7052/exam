@@ -1,0 +1,13 @@
+.example {
+    border: 1px solid red;
+    width: 10rem; height: 10rem;
+    background-color: red;
+    float: left;
+}
+
+.example2 {
+    border: 1px solid yellow;
+    width: 10rem; height: 10rem;
+    background-color: yellow;
+    float: right;
+}
